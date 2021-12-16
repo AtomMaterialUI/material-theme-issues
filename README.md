@@ -78,9 +78,9 @@ To do so you could either go to _Help → Activate License_ or from the _Materia
 
 ### Plugin pages
 
-<https://plugins.jetbrains.com/plugin/8006-material-theme-ui>
-<https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite>
-<https://plugins.jetbrains.com/plugin/10044-atom-material-icons>
+- <https://plugins.jetbrains.com/plugin/8006-material-theme-ui>
+- <https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite>
+- <https://plugins.jetbrains.com/plugin/10044-atom-material-icons>
 
 
 ### Donate via Paypal
@@ -194,8 +194,6 @@ This project exists thanks to all the people who contribute.
 <table>
   <tr>
     <td align="center"><a href="https://unthrottled.io"><img src="https://avatars.githubusercontent.com/u/15972415?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Simons</b></sub></a><br /><a href="https://github.com/mallowigi/material-theme-jetbrains/commits?author=Unthrottled" title="Code">💻</a> <a href="#infra-Unthrottled" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://kotlin.desarrollador-android.com/"><img src="https://avatars.githubusercontent.com/u/7463564?v=4" width="100px;" alt=""/><br /><sub><b>Javier Segovia Cordoba</b></sub></a><br /><a href="https://github.com/mallowigi/material-theme-jetbrains/commits?author=JavierSegoviaCordoba" title="Code">💻</a> <a href="#infra-JavierSegoviaCordoba" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
