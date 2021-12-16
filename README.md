@@ -25,12 +25,12 @@ This is a port of the famous [Material Theme](https://github.com/equinusocio/vsc
 ![Github All Releases](https://img.shields.io/github/downloads/ChrisRM/material-theme-jetbrains/total.svg)
 ![JetBrains IntelliJ plugins](https://img.shields.io/jetbrains/plugin/d/8006-material-theme-ui.svg?label=plugin%20downloads)
 
+![laptop-full](laptop-full.png)
+
 
 ## Documentation
 
 <https://www.material-theme.com>
-
-![laptop-full](laptop-full.png)
 
 ## Pricing
 
