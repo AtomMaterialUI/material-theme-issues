@@ -6,23 +6,17 @@
 </a>
 </div>
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This is a port of the famous [Material Theme](https://github.com/equinusocio/vsc-material-theme) for JetBrains IDEs, allowing a total customization of the IDE 
-including Themes, Color Schemes, Icons and many other features.
+This is a port of the famous [Material Theme](https://github.com/equinusocio/vsc-material-theme) for JetBrains IDEs, allowing a total customization of the IDE including Themes, Color Schemes, Icons and many other features.
 
 ## Pricing
 
-Since version 6.0.0 the plugin is now a paid plugin based on a freemium model. **It means that the plugin is still free**, but extra features are only available
-for paid customers. Previous versions are still available for free, but further updates will only be available on the Paid Version.
+Since version 6.0.0 the plugin is now a paid plugin based on a freemium model. **It means that the plugin is still free**, but extra features are only available for paid customers. Previous versions are still available for free, but further updates will only be available on the Paid Version.
 
 The plugin is priced at $1.5 USD monthly, or $15 annually for individuals, and $7.5 monthly/$75 annually for enterprises.
 Academics, open-source and user groups are free of charge, and non-profit organizations and educational organizations can get a discount.
 
-Also, people that have contributed more than $1 in the past, and code contributors can get a **free lifetime license**! Contact me with your contact information
-at <elior@material-theme.com> to apply.
+Also, people that have contributed more than $1 in the past, and code contributors can get a **free lifetime license**! Contact me with your contact information at <elior@material-theme.com> to apply.
 
 **Thanks for your support for all this time!!! You guys are the best!!!**
 
@@ -58,6 +52,10 @@ To do so you could either go to _Help → Activate License_ or from the _Materia
 | Update rate           | High            | Medium                 | Low                    |
 
 ----
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![GitHub issues](https://img.shields.io/github/issues/mallowigi/material-theme-issues.svg)](https://github.com/mallowigi/material-theme-issues/issues) 
 [![GitHub stars](https://img.shields.io/github/stars/ChrisRM/material-theme-jetbrains.svg)](https://github.com/ChrisRM/material-theme-jetbrains/stargazers)
