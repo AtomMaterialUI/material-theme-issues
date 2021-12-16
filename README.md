@@ -9,6 +9,13 @@
 
 This is a port of the famous [Material Theme](https://github.com/equinusocio/vsc-material-theme) for JetBrains IDEs, allowing a total customization of the IDE including Themes, Color Schemes, Icons and many other features.
 
+
+## Documentation
+
+<https://www.material-theme.com>
+
+![laptop-full](laptop-full.png)
+
 ## Pricing
 
 Since version 6.0.0 the plugin is now a paid plugin based on a freemium model. **It means that the plugin is still free**, but extra features are only available for paid customers. Previous versions are still available for free, but further updates will only be available on the Paid Version.
@@ -73,11 +80,6 @@ To do so you could either go to _Help → Activate License_ or from the _Materia
 <https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite>
 <https://plugins.jetbrains.com/plugin/10044-atom-material-icons>
 
-## Documentation
-
-<https://www.material-theme.com>
-
-![laptop-full](laptop-full.png)
 
 ### Donate via Paypal
 
