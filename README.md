@@ -6,8 +6,24 @@
 </a>
 </div>
 
+-----
 
 This is a port of the famous [Material Theme](https://github.com/equinusocio/vsc-material-theme) for JetBrains IDEs, allowing a total customization of the IDE including Themes, Color Schemes, Icons and many other features.
+
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+[![GitHub issues](https://img.shields.io/github/issues/mallowigi/material-theme-issues.svg)](https://github.com/mallowigi/material-theme-issues/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ChrisRM/material-theme-jetbrains.svg)](https://github.com/ChrisRM/material-theme-jetbrains/stargazers)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/mallowigi/material-theme-issues.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmallowigi%2Fmaterial-theme-issues)
+
+![GitHub tag](https://img.shields.io/github/tag/mallowigi/material-theme-issues.svg)
+![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/v/8006-material-theme-ui.svg)
+
+![Github All Releases](https://img.shields.io/github/downloads/ChrisRM/material-theme-jetbrains/total.svg)
+![JetBrains IntelliJ plugins](https://img.shields.io/jetbrains/plugin/d/8006-material-theme-ui.svg?label=plugin%20downloads)
 
 
 ## Documentation
@@ -59,20 +75,6 @@ To do so you could either go to _Help → Activate License_ or from the _Materia
 | Update rate           | High            | Medium                 | Low                    |
 
 ----
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-[![GitHub issues](https://img.shields.io/github/issues/mallowigi/material-theme-issues.svg)](https://github.com/mallowigi/material-theme-issues/issues) 
-[![GitHub stars](https://img.shields.io/github/stars/ChrisRM/material-theme-jetbrains.svg)](https://github.com/ChrisRM/material-theme-jetbrains/stargazers)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/mallowigi/material-theme-issues.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmallowigi%2Fmaterial-theme-issues)
-
-![GitHub tag](https://img.shields.io/github/tag/mallowigi/material-theme-issues.svg)
-![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/v/8006-material-theme-ui.svg)
-
-![Github All Releases](https://img.shields.io/github/downloads/ChrisRM/material-theme-jetbrains/total.svg)
-![JetBrains IntelliJ plugins](https://img.shields.io/jetbrains/plugin/d/8006-material-theme-ui.svg?label=plugin%20downloads)
 
 ### Plugin pages
 
