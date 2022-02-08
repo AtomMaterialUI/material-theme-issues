@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Material Theme Documentation
+    url: https://www.material-theme.com
+    about: Material Theme UI Official Documentation
+  - name: Slack Channel
+    url: https://join.slack.com/t/material-theme-ui/shared_invite/zt-4w78iblt-cHXYRYERpuGNbD~TqsD8rg
+    about: Please ask and answer questions here.
+  
