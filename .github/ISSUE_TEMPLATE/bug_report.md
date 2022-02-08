@@ -2,17 +2,15 @@ name: Bug Report
 description: File a bug report.
 title: '[Bug]: '
 labels: ["bug", "triage"]
-assignees: ''
 body:
   - type: markdown
-    value: |
-      Thanks for filling out this bug report. Before continuing, please make sure that:
-      - There is not a similar issue in the open **AND** closed issues
-      - It is constantly reproducible
-      - If possible, provide logs and/or screenshots.
-      
-      You can also visit us directly in the Slack Channel to talk to someone directly.
-
+    attributes:
+      value: |
+        Thanks for filling out this bug report. Before continuing, please make sure that:
+        - There is not a similar issue in the open **AND** closed issues
+        - It is constantly reproducible
+        - If possible, provide logs and/or screenshots.
+        You can also visit us directly in the Slack Channel to talk to someone directly.
   - type: textarea
     id: description
     attributes:
@@ -21,7 +19,6 @@ body:
       placeholder: Bug Description
     validation:
       required: true
-      
   - type: textarea
     id: steps
     attributes:
@@ -34,7 +31,6 @@ body:
         4. See error
     validation:
       required: true
-      
   - type: textarea
     id: expecte
     attributes:
@@ -43,7 +39,6 @@ body:
       placeholder: Expected behavior
     validation:
       required: true
-      
   - type: input
     id: version
     attributes:
@@ -52,7 +47,6 @@ body:
       placeholder: v7.0.0
     validations:
       required: true
-      
   - type: dropdown
     id: ide
     attributes:
@@ -71,7 +65,6 @@ body:
         - Other (AppCode, CLion, GoLang...)
     validations:
       required: true
-      
   - type: textarea
     id: system-info
     attributes:
@@ -87,7 +80,6 @@ body:
         * If needed a list of enabled plugins -->
             validations:
               required: true
-              
   - type: textarea
     id: screenshots
     attributes:
