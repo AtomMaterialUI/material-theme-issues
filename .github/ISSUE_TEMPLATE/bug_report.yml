@@ -69,7 +69,7 @@ body:
     id: system-info
     attributes:
       label: System Info
-      description: Other information: OS, Installed Plugins...
+      description: "Other information: OS, Installed Plugins..."
       render: shell
       placeholder: |
         Please go to *IntelliJ IDEA -> About IntelliJ IDEA (Mac)* or *Help -> About IntelliJ IDEA (Windows)* and copy the infos to the clipboard and paste it here.
