@@ -11,7 +11,7 @@ body:
         - It is constantly reproducible
         - If possible, provide logs and/or screenshots.
         
-  You can also visit us directly in the Slack Channel to talk to someone directly.
+        You can also visit us directly in the Slack Channel to talk to someone directly.
         
   - type: textarea
     id: description
