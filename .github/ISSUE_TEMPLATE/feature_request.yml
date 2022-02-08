@@ -1,0 +1,86 @@
+name: Feature Request
+description: Interested to participate in the Material Theme Development? Share with us a cool feature or improvement that you''d like to see implemented! 
+title: '[Feature]: '
+labels: ["Feature Request", "enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before you open a new feature request, please make sure that there wasn't an already similar feature in the open **AND** closed issues. 
+        
+        If that's the case, please ask yourself the following questions before opening:
+        
+        * Would that feature be useful to others?
+        * In what scenarii would you use that feature?
+        * Is there something similar elsewhere? (VSCode, Chrome, etc...)
+        
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the feature
+      description: A clear an concise description of what you''d want to be implemented.
+      placeholder: Feature Description...
+    validations:
+      required: true
+      
+  - type: textarea
+    id: usecases
+    attributes:
+      label: Use Cases
+      description: If you can, please provide one or more use cases where that feature would be useful.
+      placeholder: Use cases for such a feature.
+      
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples/Mockups
+      description: Please provide more information of what you wish to be implemented. If you can provide examples of similar uses (in other IDEs for example), or better, mockups, it would be great!
+      
+  - type: markdown
+    attributes:
+      value: |
+        ----
+        
+        # System Information
+    
+  - type: input
+    id: version
+    attributes:
+      label: Material Theme Version
+      description: Please provide the Material Theme version number.
+      placeholder: v7.0.0
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: ide
+    attributes:
+      label: IDE
+      description: Please provide the IDE(s) where it happened.
+      multiple: true
+      options:
+        - IntelliJ IDEA
+        - RubyMine
+        - WebStorm
+        - PHPStorm
+        - Rider
+        - PyCharm
+        - Android Studio
+        - DataGrip
+        - Other (AppCode, CLion, GoLang...)
+    validations:
+      required: true
+      
+  - type: textarea
+    id: system-info
+    attributes:
+      label: System Info
+      description: "Other information: OS, Installed Plugins..."
+      render: shell
+      placeholder: |
+        Please go to *IntelliJ IDEA -> About IntelliJ IDEA (Mac)* or *Help -> About IntelliJ IDEA (Windows)* and copy the infos to the clipboard and paste it here.
+        It should contain:
+        * OS (Windows, Linux, Mac)
+        * IntelliJ Product + version (IDEA, RubyMine...)
+        * Plugin version
+        * If needed a list of enabled plugins
