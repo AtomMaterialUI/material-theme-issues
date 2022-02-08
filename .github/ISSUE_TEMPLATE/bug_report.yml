@@ -18,7 +18,7 @@ body:
       label: Describe the bug
       description: A clear an concise description of what the bug is.
       placeholder: Bug Description
-    validation:
+    validations:
       required: true
       
   - type: textarea
@@ -31,7 +31,7 @@ body:
         2. Click on '...'
         3. Scroll down to '...'
         4. See error
-    validation:
+    validations:
       required: true
       
   - type: textarea
@@ -40,7 +40,7 @@ body:
       label: Expected behavior
       description: A clear and concise description of what is expected to happen.
       placeholder: Expected behavior
-    validation:
+    validations:
       required: true
       
   - type: input
@@ -83,9 +83,7 @@ body:
         * OS (Windows, Linux, Mac)
         * IntelliJ Product + version (IDEA, RubyMine...)
         * Plugin version
-        * If needed a list of enabled plugins -->
-            validations:
-              required: true
+        * If needed a list of enabled plugins
               
   - type: textarea
     id: screenshots
