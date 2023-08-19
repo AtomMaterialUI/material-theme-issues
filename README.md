@@ -11,6 +11,8 @@
 This is a port of the famous [Material Theme](https://material-theme.site/) for JetBrains IDEs, allowing a total
 customization of the IDE including Themes, Color Schemes, Icons and many other features.
 
+![Material Oceanic](https://res.cloudinary.com/mariosmilax/image/upload//c_thumb,w_2000,h_1200,g_auto/v1692458796/laptops/oceanic_macbookpro15_front.png)
+
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
@@ -26,7 +28,36 @@ customization of the IDE including Themes, Color Schemes, Icons and many other f
 ![GitHub All Releases](https://img.shields.io/github/downloads/ChrisRM/material-theme-jetbrains/total.svg)
 ![JetBrains IntelliJ plugins](https://img.shields.io/jetbrains/plugin/d/8006-material-theme-ui.svg?label=plugin%20downloads)
 
-![laptop-full](laptop-full.png)
+## Screenshots
+
+<details>
+  <summary>Click here to see screenshots!</summary>
+
+![Material Oceanic](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458796/laptops/oceanic_macbookpro15_front.png)
+![Material Darker](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458776/laptops/darker_macbookpro15_front.png)
+![Material Palenight](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458797/laptops/palenight_macbookpro15_front.png)
+![Material Lighter](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458778/laptops/lighter_macbookpro15_front.png)
+![Material Deep Ocean](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458775/laptops/deepocean_macbookpro15_front.png)
+![Material Forest](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458770/laptops/forest_macbookpro15_front.png)
+![Material Volcano](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458779/laptops/volcano_macbookpro15_front.png)
+![Material Sky Blue](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458782/laptops/skyblue_macbookpro15_front.png)
+![Material Sandy Beach](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458784/laptops/sandybeach_macbookpro15_front.png)
+![Material Space](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458773/laptops/space_macbookpro15_front.png)
+![Monokai Pro](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458792/laptops/monokai_macbookpro15_front.png)
+![Arc Dark](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458769/laptops/arcdark_macbookpro15_front.png)
+![Dracula](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458773/laptops/dracula_macbookpro15_front.png)
+![Atom One Dark](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458798/laptops/onedark_macbookpro15_front.png)
+![Atom One Light](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458795/laptops/onelight_macbookpro15_front.png)
+![GitHub](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458766/laptops/github_macbookpro15_front.png)
+![GitHub Dark](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458782/laptops/githubdark_macbookpro15_front.png)
+![Night Owl](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458790/laptops/nightowl_macbookpro15_front.png)
+![Light Owl](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458784/laptops/lightowl_macbookpro15_front.png)
+![Solarized Dark](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458797/laptops/solardark_macbookpro15_front.png)
+![Solarized Light](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458794/laptops/solarlight_macbookpro15_front.png)
+![Moonlight](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458787/laptops/moonlight_macbookpro15_front.png)
+![SynthWave 84](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458778/laptops/synthwave_macbookpro15_front.png)
+
+</details>
 
 ## Documentation
 
