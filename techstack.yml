@@ -1,0 +1,27 @@
+repo_name: mallowigi/material-theme-issues
+report_id: 72a175f4c246a812030bad8bca55293e
+repo_type: Public
+timestamp: '2023-11-19T08:00:03+00:00'
+requested_by: mallowigi
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: docs/CHANGELOG.html
+  last_updated_by: Elior
+  last_updated_on: 2021-08-20 17:52:39.000000000 Z
