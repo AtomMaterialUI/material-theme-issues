@@ -1,26 +1,30 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mallowigi/material-theme-issues is built on the following main stack:
 
 
-Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+Full tech stack [here](/techstack.md)
+
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mallowigi/material-theme-issues is built on the following main stack:
 
 
+
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mallowigi/material-theme-issues](https://github.com/mallowigi/material-theme-issues)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|2<br/>Tools used|11/19/23 <br/>Report generated|
+|2<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
