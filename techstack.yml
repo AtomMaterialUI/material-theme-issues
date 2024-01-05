@@ -1,7 +1,8 @@
 repo_name: mallowigi/material-theme-issues
 report_id: 72a175f4c246a812030bad8bca55293e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-19T08:00:03+00:00'
+timestamp: '2024-01-05T08:37:16+00:00'
 requested_by: mallowigi
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mallowigi/material-theme-issues
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -22,6 +24,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/mallowigi/material-theme-issues/blob/master/docs/CHANGELOG.html
   detection_source: docs/CHANGELOG.html
   last_updated_by: Elior
   last_updated_on: 2021-08-20 17:52:39.000000000 Z
