@@ -8,10 +8,10 @@
 
 -----
 
-This is a port of the famous [Material Theme](https://material-theme.site/) for JetBrains IDEs, allowing a total
+[Material Design Style](https://m3.material.io/) for JetBrains IDEs, allowing a total
 customization of the IDE including Themes, Color Schemes, Icons and many other features.
 
-![Material Oceanic](https://res.cloudinary.com/mariosmilax/image/upload//c_thumb,w_2000,h_1200,g_auto/v1692458796/laptops/oceanic_macbookpro15_front.png)
+![Material Oceanic](https://images.material-theme.com/mariosmilax/image/upload//c_thumb,w_2000,h_1200,g_auto/v1692458796/laptops/oceanic_macbookpro15_front.png)
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -33,31 +33,33 @@ customization of the IDE including Themes, Color Schemes, Icons and many other f
 <details>
   <summary>Click here to see screenshots!</summary>
 
-![Material Oceanic](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458796/laptops/oceanic_macbookpro15_front.png)
-![Material Darker](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458776/laptops/darker_macbookpro15_front.png)
-![Material Palenight](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458797/laptops/palenight_macbookpro15_front.png)
-![Material Lighter](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458778/laptops/lighter_macbookpro15_front.png)
-![Material Deep Ocean](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458775/laptops/deepocean_macbookpro15_front.png)
-![Material Forest](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458770/laptops/forest_macbookpro15_front.png)
-![Material Volcano](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458779/laptops/volcano_macbookpro15_front.png)
-![Material Sky Blue](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458782/laptops/skyblue_macbookpro15_front.png)
-![Material Sandy Beach](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458784/laptops/sandybeach_macbookpro15_front.png)
-![Material Space](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458773/laptops/space_macbookpro15_front.png)
-![Monokai Pro](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458792/laptops/monokai_macbookpro15_front.png)
-![Arc Dark](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458769/laptops/arcdark_macbookpro15_front.png)
-![Dracula](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458773/laptops/dracula_macbookpro15_front.png)
-![Atom One Dark](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458798/laptops/onedark_macbookpro15_front.png)
-![Atom One Light](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458795/laptops/onelight_macbookpro15_front.png)
-![GitHub](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458766/laptops/github_macbookpro15_front.png)
-![GitHub Dark](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458782/laptops/githubdark_macbookpro15_front.png)
-![Night Owl](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458790/laptops/nightowl_macbookpro15_front.png)
-![Light Owl](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458784/laptops/lightowl_macbookpro15_front.png)
-![Solarized Dark](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458797/laptops/solardark_macbookpro15_front.png)
-![Solarized Light](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458794/laptops/solarlight_macbookpro15_front.png)
-![Moonlight](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458787/laptops/moonlight_macbookpro15_front.png)
-![SynthWave 84](https://res.cloudinary.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458778/laptops/synthwave_macbookpro15_front.png)
+![Material Oceanic](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458796/laptops/oceanic_macbookpro15_front.png)
+![Material Darker](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458776/laptops/darker_macbookpro15_front.png)
+![Material Palenight](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458797/laptops/palenight_macbookpro15_front.png)
+![Material Lighter](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458778/laptops/lighter_macbookpro15_front.png)
+![Material Deep Ocean](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458775/laptops/deepocean_macbookpro15_front.png)
+![Material Forest](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458770/laptops/forest_macbookpro15_front.png)
+![Material Volcano](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458779/laptops/volcano_macbookpro15_front.png)
+![Material Sky Blue](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458782/laptops/skyblue_macbookpro15_front.png)
+![Material Sandy Beach](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458784/laptops/sandybeach_macbookpro15_front.png)
+![Material Space](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458773/laptops/space_macbookpro15_front.png)
+![Monokai Pro](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458792/laptops/monokai_macbookpro15_front.png)
+![Arc Dark](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458769/laptops/arcdark_macbookpro15_front.png)
+![Dracula](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458773/laptops/dracula_macbookpro15_front.png)
+![Atom One Dark](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458798/laptops/onedark_macbookpro15_front.png)
+![Atom One Light](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458795/laptops/onelight_macbookpro15_front.png)
+![GitHub](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458766/laptops/github_macbookpro15_front.png)
+![GitHub Dark](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458782/laptops/githubdark_macbookpro15_front.png)
+![Night Owl](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458790/laptops/nightowl_macbookpro15_front.png)
+![Light Owl](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458784/laptops/lightowl_macbookpro15_front.png)
+![Solarized Dark](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458797/laptops/solardark_macbookpro15_front.png)
+![Solarized Light](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458794/laptops/solarlight_macbookpro15_front.png)
+![Moonlight](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458787/laptops/moonlight_macbookpro15_front.png)
+![SynthWave 84](https://images.material-theme.com/mariosmilax/image/upload/c_thumb,w_2000,h_1200,g_auto/v1692458778/laptops/synthwave_macbookpro15_front.png)
 
 </details>
+
+**Note**: This section is not updated with every release, so check the [official website](https://www.material-theme.com) for the latest themes and features!.
 
 ## Documentation
 
@@ -65,10 +67,8 @@ customization of the IDE including Themes, Color Schemes, Icons and many other f
 
 ## Pricing
 
-Since version 6.0.0 the plugin is now a paid plugin based on a freemium model.
-**It means that the plugin is still free**, but extra features are only available for paid customers. Previous versions
-are still available for free, but
-further updates will only be available on the Paid Version.
+Since version 6.0.0 the plugin is now a paid plugin based on a freemium model. **It means that the plugin is still
+free**, but extra features are only available for paid customers. Previous versions are still available for free, but further updates will only be available on the Paid Version.
 
 The plugin is priced at $1.5 USD monthly, or $15 annually for individuals, and $7.5 monthly/$75 annually for
 enterprises.
@@ -100,24 +100,37 @@ to **Activate Your License**)
 
 #### Feature Comparison
 
-| Feature               | Premium Version | Free Version           | Lite Version           |
-|:----------------------|:----------------|:-----------------------|:-----------------------|
-| Built-in Themes       | Yes             | Yes                    | Yes                    |
-| Color Schemes         | Yes             | Yes                    | Yes                    |
-| Fonts                 | Yes             | Yes                    | Yes                    |
-| Wallpapers            | Yes             | Yes                    | Yes                    |
-| File Status Colors    | Yes             | Yes                    | Yes                    |
-| Accent Colors         | Yes             | Yes (not configurable) | Yes (not configurable) |
-| Material Components   | Yes             | Yes                    | Yes (partial support)  |
-| Support               | Yes             | Yes                    | Yes (partial)          |
-| Custom Themes         | Yes             | No                     | No                     |
-| Tab Settings          | Yes             | Partial (Tab Height)   | No                     |
-| Compact Settings      | Yes             | Yes                    | No                     |
-| Project View Settings | Yes             | Partial                | No                     |
-| Component Settings    | Yes             | Partial (Scrollbars)   | No                     |
-| Language Additions    | Yes             | No                     | No                     |
-| External Themes       | Yes             | No                     | No                     |
-| Update rate           | High            | Medium                 | Low                    |
+| Feature                                             | Premium Version | Free Version | Lite Version |
+|:----------------------------------------------------|:----------------|:-------------|:-------------|
+| Built-in Themes                                     | Yes             | Yes          | Yes          |
+| Color Schemes                                       | Yes             | Yes          | Yes          |
+| Fonts                                               | Yes             | Yes          | Yes          |
+| Wallpapers                                          | Yes             | Yes          | Yes          |
+| File Status Colors                                  | Yes             | Yes          | Yes          |
+| Color Scheme Overrides                              | Yes             | Yes          | Yes          |
+| Accent Colors                                       | Yes             | Yes          | Yes          |
+| Material Components                                 | Yes             | Yes          | Yes          |
+| Contrast Mode                                       | Yes             | Yes          | Yes          |
+| External Themes                                     | Yes             | Yes          | No           |
+| Theme Ignores                                       | Yes             | Yes          | No           |
+| High Contrast Mode                                  | Yes             | No           | No           |
+| Custom Themes                                       | Yes             | No           | No           |
+| Accent Mode                                         | Yes             | No           | No           |
+| Adaptive Theme                                      | Yes             | No           | No           |
+| Tab Settings                                        | Yes             | Partial      | No           |
+| Spacing Settings                                    | Yes             | Partial      | No           |
+| Project View Settings                               | Yes             | Partial      | No           |
+| UI Components Settings                              | Yes             | Partial      | No           |
+| Trees Settings                                      | Yes             | Partial      | No           |
+| Features (Animations, Fab, Overlays, Wallpapers...) | Yes             | Partial      | No           |
+| Islands                                             | Yes             | No           | No           |
+| Language Additions                                  | Yes             | No           | No           |
+| Project Banner                                      | Yes             | No           | No           |
+| Window Coloring                                     | Yes             | No           | No           |
+| Theme Randomizer                                    | Yes             | No           | No           |
+| Peek                                                | Yes             | No           | No           |
+| Stylish Regions                                     | Yes             | No           | No           |
+| Update rate                                         | High            | High         | Rare         |
 
 ----
 
@@ -160,36 +173,27 @@ Come say hello!
 
 The Material Theme has been ported to many other editors, applications, websites and other platforms:
 
-- [Visual Studio Code](https://github.com/equinusocio/vsc-material-theme/) (
-  by [@equinusocio](https://github.com/equinusocio)
+- [Visual Studio Code](https://github.com/equinusocio/vsc-material-theme/) (by [@equinusocio](https://github.com/equinusocio)
 - [Sublime Text](https://github.com/SublimeText/material-theme/) (originally
   by [@equinusocio](https://github.com/equinusocio), now archived
   by [Sublime Text](https://github.com/SublimeText/material-theme))
 - [Hyper](https://github.com/equinusocio/hyper-material-theme) (also by [@equinusocio](https://github.com/equinusocio).
 - [Atom](https://github.com/silvestreh/atom-material-ui) (by [@silvestreh](https://github.com/silvestreh)) (RIP Atom)
-- [Vim](https://github.com/kristijanhusak/vim-hybrid-material) (
-  by [@kristijanhusak](https://github.com/kristijanhusak)).
-- [Terminal OSX](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf) (
-  by [@mvaneijgen](https://github.com/mvaneijgen)).
+- [Vim](https://github.com/kristijanhusak/vim-hybrid-material) (by [@kristijanhusak](https://github.com/kristijanhusak)).
+- [Terminal OSX](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf) (by [@mvaneijgen](https://github.com/mvaneijgen)).
 - [iTerm2](https://gist.github.com/Revod/3f3115f8d4b90fc986fd4b61441c2567) (by [@Revod](https://github.com/Revod))
-  and [iTerm2 Palenight](https://github.com/JonathanSpeek/palenight-iterm2) (
-  by [@jonathanspeek](https://github.com/jonathanspeek)).
+  and [iTerm2 Palenight](https://github.com/JonathanSpeek/palenight-iterm2) (by [@jonathanspeek](https://github.com/jonathanspeek)).
 - [ConEmu](https://gist.github.com/rajadain/b306b2ba71bd58a1df41) (by [@rajadain](https://github.com/rajadain)).
 - [Nylas N1](https://github.com/jackiehluo/n1-material) (thanks to [@jackiehluo](https://github.com/jackiehluo))
 - [Base16](https://github.com/ntpeters/base16-materialtheme-scheme) (by [@ntpeters](https://github.com/ntpeters))
 - [Notepad++](https://github.com/Codextor/npp-material-theme) (by [@Codextor](https://github.com/Codextor))
 - [Chrome Devtools](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo)
-- [Bear](https://github.com/r3volution11/material-theme-bear-notes) (
-  by [Doug C. Hardester](https://github.com/r3volution11))
+- [Bear](https://github.com/r3volution11/material-theme-bear-notes) (by [Doug C. Hardester](https://github.com/r3volution11))
 - [Slack Themes](https://github.com/mallowigi/slack-themes) - Porting of the Material Theme to Slack
-- [Gmail](https://userstyles.org/styles/174257/material-dark-gmail) (
-  by [@Charlie Etienne](https://github.com/CharlieEtienne))
-- [Google Calendar](https://userstyles.org/styles/174228/material-dark-google-calendar) (
-  by [@Charlie Etienne](https://github.com/CharlieEtienne))
-- [Google Keep](https://userstyles.org/styles/174291/material-dark-google-keep) (
-  by [@Charlie Etienne](https://github.com/CharlieEtienne))
-- [Trello](https://userstyles.org/styles/167605/material-dark-trello) (
-  by [@Charlie Etienne](https://github.com/CharlieEtienne))
+- [Gmail](https://userstyles.org/styles/174257/material-dark-gmail) (by [@Charlie Etienne](https://github.com/CharlieEtienne))
+- [Google Calendar](https://userstyles.org/styles/174228/material-dark-google-calendar) (by [@Charlie Etienne](https://github.com/CharlieEtienne))
+- [Google Keep](https://userstyles.org/styles/174291/material-dark-google-keep) (by [@Charlie Etienne](https://github.com/CharlieEtienne))
+- [Trello](https://userstyles.org/styles/167605/material-dark-trello) (by [@Charlie Etienne](https://github.com/CharlieEtienne))
 - [GitHub](https://github.com/CharlieEtienne/material-github) (by [@Charlie Etienne](https://github.com/CharlieEtienne))
 - [Google](https://github.com/CharlieEtienne/material-google) (by [@Charlie Etienne](https://github.com/CharlieEtienne))
 - [Google Chrome Themes](https://material-theme.com/docs/other-products/#chrome-themes) by myself.
